@@ -16,10 +16,10 @@ The player plays as a new substitute teacher at a school subbing for a few days.
 
 ## Important Links
 
-- Game URL: < ... >
+- Game URL: < https://play.unity.com/en/games/cf525003-a3c1-4a46-a1cc-d8fe183a6d8d/school-for-lost-souls  >
 - GITHUB URL: < ... >
-- Gameplay Video URL: < ... >
-- Google Doc writeup: < ... >
+- Gameplay Video URL: < https://drive.google.com/file/d/1XDPQ5GJDM2DDOsFRNp6X8veNW2zL-xfP/view?usp=sharing  >
+- Google Doc writeup: < https://docs.google.com/document/d/1p294kpEtPFR7HcgIgBjm5wl_wBVKYuUPj3PhNBSX6hs/edit?usp=sharing >
 
 ## Files in the repository
 
